@@ -54,12 +54,6 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ### 3. Transient Response Setup
 
 
-
-
-
-
-
-
 ## Output
 
 ### 1. Transient Analysis Output
