@@ -43,7 +43,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Circuit Diagram
 
 ### 1. 2:1 MUX USING CMOS
-<img width="1455" height="1081" alt="image" src="https://github.com/user-attachments/assets/ef0e9406-6c2d-49a3-8af4-792c9fb9ac3a" />
+
 
 
 
